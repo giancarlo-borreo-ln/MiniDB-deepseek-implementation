@@ -1,0 +1,4 @@
+# Build artifacts
+minidb
+minidb_test
+*.o
